@@ -1,2 +1,2 @@
-# Bobryk Rodion Portfolio
+# Rodion Bobryk Portfolio
 Fully animated portfolio
